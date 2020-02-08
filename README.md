@@ -1,2 +1,2 @@
 # Programming_Exercises
-Basic codding
+school exercises
